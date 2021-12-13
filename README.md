@@ -1,3 +1,9 @@
 # TestFixture2
 
-<div data-bynder-widget="media-item" data-media-id="54884E8D-9B93-4E81-8007B0BA206C7A80" data-title="true" data-lightbox="false" data-download="false"><script id="bynder-widgets-js" data-account-url="lightbox.chauvetlighting.com" da
+Test Fixture 
+
+<img src="https://www.chauvetprofessional.com/wp-content/uploads/2019/02/maverick-mk3-profile-right.jpg" width="225" height="250" />
+https://www.chauvetprofessional.com/products/maverick-mk3-profile/
+
+This is the where you can get all the software for Test fixture
+
